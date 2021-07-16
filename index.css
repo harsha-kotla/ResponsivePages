@@ -5,6 +5,9 @@ body {
 .row {
   width: 96%
 }
+p {
+  padding: 10px;
+}
 .header {
   width: 30%;
   margin-left: 70%;

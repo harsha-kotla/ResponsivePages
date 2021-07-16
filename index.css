@@ -12,7 +12,7 @@ body {
     float: left;
     width: 30%;
     margin: 0.9%;
-    background-color: red;
+    background-color: lightblue;
     border: 1px solid green;
     text-align: center;
   }
@@ -23,7 +23,7 @@ body {
 
     width: 47%;
     float: left;
-    background-color: red;
+    background-color: lightblue;
     text-align: center;
     border: 1px solid green;
     margin: 0.9%;
@@ -33,6 +33,21 @@ body {
   }
 
 }
+@media (max-width: 767px) and (min-width: 1px){
+
+  .col-sm-12 {
+
+    width: 100%;
+    background-color: lightblue;
+    border: 1px solid;
+    padding: 2px;
+    text-align: center;
+    border: 1px solid green;
+    margin: 0.9%;
+  }
+
+}
+
 @media (max-width: 767px) and (min-width: 1px){
 
   .col-sm-12 {

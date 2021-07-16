@@ -11,7 +11,7 @@ body {
   .col-lg-4 {
     float: left;
     width: 30%;
-    margin: 4px;
+    margin: 6px;
     background-color: red;
     border: 1px solid green;
     text-align: center;
@@ -21,7 +21,7 @@ body {
 
   .col-md-6 {
 
-    width: 47.5%;
+    width: 47.7%;
     float: left;
     background-color: red;
     text-align: center;

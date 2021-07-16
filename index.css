@@ -10,7 +10,8 @@ body {
 
   .col-lg-4 {
     float: left;
-    width: 33%;
+    width: 30%;
+    margin: 1px;
     background-color: red;
     border: 1px solid green;
     text-align: center;
@@ -25,6 +26,7 @@ body {
     background-color: red;
     text-align: center;
     border: 1px solid green;
+    margin: 1px;
   }
   #i3 {
     width: 100% !important;
@@ -41,6 +43,7 @@ body {
     padding: 2px;
     text-align: center;
     border: 1px solid green;
+    margin: 1px;
   }
 
 }

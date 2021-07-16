@@ -11,7 +11,7 @@ body {
   .col-lg-4 {
     float: left;
     width: 30%;
-    margin: 5px;
+    margin: 0.9%;
     background-color: red;
     border: 1px solid green;
     text-align: center;
@@ -21,12 +21,12 @@ body {
 
   .col-md-6 {
 
-    width: 47.7%;
+    width: 47%;
     float: left;
     background-color: red;
     text-align: center;
     border: 1px solid green;
-    margin: 5px;
+    margin: 0.9%;
   }
   #i3 {
     width: 96% !important;
@@ -43,7 +43,7 @@ body {
     padding: 2px;
     text-align: center;
     border: 1px solid green;
-    margin: 5px;
+    margin: 0.9%;
   }
 
 }

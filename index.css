@@ -7,7 +7,7 @@ body {
    
 }
 
-@media (min-width: 1200px){
+@media (min-width: 1200px) and (max-width: 2200px){
 
   .col-lg-4 {
     float: left;

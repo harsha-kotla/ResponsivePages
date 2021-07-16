@@ -12,7 +12,7 @@ body {
     float: left;
     width: 33%;
     background-color: red;
-
+    border: 1px solid green;
     text-align: center;
   }
 }
@@ -24,7 +24,7 @@ body {
     float: left;
     background-color: red;
     text-align: center;
-    
+    border: 1px solid green;
   }
   #i3 {
     width: 100% !important;
@@ -40,7 +40,7 @@ body {
     border: 1px solid;
     padding: 2px;
     text-align: center;
-
+    border: 1px solid green;
   }
 
 }

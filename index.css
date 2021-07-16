@@ -4,7 +4,6 @@ body {
 }
 .row {
   width: 96%
-  float: center;
 }
 
 @media (min-width: 992px) and (max-width: 10000px){
@@ -22,7 +21,7 @@ body {
 
   .col-md-6 {
 
-    width: 48%;
+    width: 47.5%;
     float: left;
     background-color: red;
     text-align: center;

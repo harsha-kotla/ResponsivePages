@@ -21,7 +21,7 @@ body {
 
   .col-md-6 {
 
-    width: 50%;
+    width: 49%;
     float: left;
     background-color: red;
     text-align: center;
@@ -29,7 +29,7 @@ body {
     margin: 1px;
   }
   #i3 {
-    width: 100% !important;
+    width: 98% !important;
   }
 
 }

@@ -8,6 +8,7 @@ body {
 .header {
   width: 30%;
   margin-left: 35%;
+  font-size: 25%;
 
 }
 @media (min-width: 992px) and (max-width: 10000px){

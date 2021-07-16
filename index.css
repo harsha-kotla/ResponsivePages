@@ -4,9 +4,10 @@ body {
 }
 .row {
   width: 100%
+   
 }
 
-@media (min-width: 1200px){
+@media (min-width: 1500px){
 
   .col-lg-4 {
     float: left;
@@ -17,7 +18,7 @@ body {
     text-align: center;
   }
 }
-@media (max-width: 1199px) and (min-width: 990px){
+@media (max-width: 1199px) and (min-width: 800px){
 
   .col-md-6 {
 
@@ -33,7 +34,7 @@ body {
   }
 
 }
-@media (max-width: 989px) and (min-width: 1px){
+@media (max-width: 799px) and (min-width: 1px){
 
   .col-sm-12 {
 

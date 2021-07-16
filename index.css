@@ -5,7 +5,11 @@ body {
 .row {
   width: 96%
 }
+.header {
+  width: 30%;
+  margin-left: 35%;
 
+}
 @media (min-width: 992px) and (max-width: 10000px){
 
   .col-lg-4 {

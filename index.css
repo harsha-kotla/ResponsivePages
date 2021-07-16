@@ -19,7 +19,8 @@ body {
     margin: 1%;
     background-color: lightblue;
     border: 1px solid green;
-    text-align: center;
+    
+    padding: 10px;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -29,9 +30,10 @@ body {
     width: 47%;
     float: left;
     background-color: lightblue;
-    text-align: center;
+    
     border: 1px solid green;
     margin: 1%;
+    padding: 10px;
   }
   #i3 {
     width: 96% !important;
@@ -46,10 +48,11 @@ body {
     background-color: lightblue;
     border: 1px solid;
     padding: 2px;
-    text-align: center;
+    
     border: 1px solid green;
     margin-right: 1.8%;
-    margin-bottom: 1.5%
+    margin-bottom: 1.5%;
+     padding: 10px;
   }
 
 }

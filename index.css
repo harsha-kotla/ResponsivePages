@@ -20,7 +20,7 @@ body {
     background-color: lightblue;
     border: 1px solid green;
     
-    padding: 10px;
+    padding: 5px;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -33,7 +33,7 @@ body {
     
     border: 1px solid green;
     margin: 1%;
-    padding: 10px;
+    padding: 5px;
   }
   #i3 {
     width: 96% !important;
@@ -52,7 +52,7 @@ body {
     border: 1px solid green;
     margin-right: 1.8%;
     margin-bottom: 1.5%;
-     padding: 10px;
+     padding: 5px;
   }
 
 }

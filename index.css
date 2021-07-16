@@ -11,7 +11,7 @@ body {
   .col-lg-4 {
     float: left;
     width: 30%;
-    margin: 1px;
+    margin: 4px;
     background-color: red;
     border: 1px solid green;
     text-align: center;

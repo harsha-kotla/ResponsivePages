@@ -3,8 +3,8 @@ body {
   font-size: 120%;
 }
 .row {
-  width: 100%
-  align: center;
+  width: 96%
+  float: center;
 }
 
 @media (min-width: 992px) and (max-width: 10000px){
@@ -30,7 +30,7 @@ body {
     margin: 1px;
   }
   #i3 {
-    width: 97% !important;
+    width: 96% !important;
   }
 
 }
